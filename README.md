@@ -16,11 +16,4 @@
 - **Database**: SQLite / PostgreSQL 
 - **Frontend**: HTML, CSS (Bootstrap or custom)
 
-## mamar_bank/
-├── bank/              # Main banking app
-├── mamar_bank/        # Project config
-├── templates/         # HTML templates
-├── static/            # Static files (CSS, JS)
-├── db.sqlite3         # Database file
-├── manage.py
-└── README.md
+
